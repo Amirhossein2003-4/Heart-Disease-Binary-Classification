@@ -112,6 +112,8 @@ Beyond the headline metrics, the pipeline generates a full diagnostic suite for 
 - **Predicted probability distribution** split by true class, for the best model
 
 All plots and CSVs (cross-validation results, feature importances, coefficient paths) are saved under `model_results/`.
+<img width="2400" height="1800" alt="learning_curve_elastic_net" src="https://github.com/user-attachments/assets/9ae9a922-064c-44e2-be70-3d5ea24a029f" />
+<img width="3000" height="2400" alt="pr_comparison" src="https://github.com/user-attachments/assets/7d8111f8-9920-4076-a198-280c28b54095" />
 
 ## Limitations
 
